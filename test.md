@@ -1,1 +1,3 @@
-1 . squash test
+# squash test
+
+1. create squash test.md
